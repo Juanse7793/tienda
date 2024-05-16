@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://tienda-khaki-zeta.vercel.app/)
+[Live Demo Link](https://tienda-jssm-unir-i22wvlhlh-juanse7793s-projects.vercel.app/)
 
 ## Getting Started
 
