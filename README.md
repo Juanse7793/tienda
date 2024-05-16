@@ -1,5 +1,7 @@
 # Juanse Store
 
+<img src=multiscreens.png>
+
 > Juanse Store is an online store application built with React, Vite, and Tailwind CSS. It allows users to browse products, add them to a cart, proceed to checkout, and manage orders and returns.
 
 ## Built With
