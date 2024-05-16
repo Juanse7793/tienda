@@ -27,7 +27,7 @@ const ProductDetail = () => {
         className="w-full h-auto mb-4"
       />
       <h1 className="text-2xl font-bold mb-2">{product.name}</h1>
-      <p className="text-lg mb-4">{product.description}</p>
+      <p className="text-lg mb-4">{product.longDescription}</p>
       <p className="text-xl font-semibold mb-4">${product.price}</p>
       <button
         onClick={() => addToCart(product)}

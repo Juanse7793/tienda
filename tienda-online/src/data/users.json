@@ -1,6 +1,13 @@
 [{
     "id": 1,
     "name": "Juanse",
-    "username": "juanse",
+    "username": "Juanse",
     "age": 30
-}]
+},
+ {
+    "id": 2,
+    "name": "Jesus",
+    "username": "Jesus",
+    "age": 25
+}   
+]

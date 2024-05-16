@@ -1,192 +1,218 @@
 [
-    {
-      "id": 1,
-      "name": "Producto 1",
-      "price": 10,
-      "description": "Descripción del producto 1",
-      "imageUrl": "https://source.unsplash.com/random/product,1"
-    },
-    {
-      "id": 2,
-      "name": "Producto 2",
-      "price": 20,
-      "description": "Descripción del producto 2",
-      "imageUrl": "https://source.unsplash.com/random/item,2"
-    },
-    {
-      "id": 3,
-      "name": "Producto 3",
-      "price": 30,
-      "description": "Descripción del producto 3",
-      "imageUrl": "https://source.unsplash.com/random/goods,3"
-    },
-    {
-      "id": 4,
-      "name": "Producto 4",
-      "price": 40,
-      "description": "Descripción del producto 4",
-      "imageUrl": "https://source.unsplash.com/random/electronics,4"
-    },
-    {
-      "id": 5,
-      "name": "Producto 5",
-      "price": 50,
-      "description": "Descripción del producto 5",
-      "imageUrl": "https://source.unsplash.com/random/clothing,5"
-    },
-    {
-      "id": 6,
-      "name": "Producto 6",
-      "price": 60,
-      "description": "Descripción del producto 6",
-      "imageUrl": "https://source.unsplash.com/random/accessory,6"
-    },
-    {
-      "id": 7,
-      "name": "Producto 7",
-      "price": 70,
-      "description": "Descripción del producto 7",
-      "imageUrl": "https://source.unsplash.com/random/furniture,7"
-    },
-    {
-      "id": 8,
-      "name": "Producto 8",
-      "price": 80,
-      "description": "Descripción del producto 8",
-      "imageUrl": "https://source.unsplash.com/random/product,8"
-    },
-    {
-      "id": 9,
-      "name": "Producto 9",
-      "price": 90,
-      "description": "Descripción del producto 9",
-      "imageUrl": "https://source.unsplash.com/random/item,9"
-    },
-    {
-      "id": 10,
-      "name": "Producto 10",
-      "price": 100,
-      "description": "Descripción del producto 10",
-      "imageUrl": "https://source.unsplash.com/random/goods,10"
-    },
-    {
-      "id": 11,
-      "name": "Producto 11",
-      "price": 110,
-      "description": "Descripción del producto 11",
-      "imageUrl": "https://source.unsplash.com/random/electronics,11"
-    },
-    {
-      "id": 12,
-      "name": "Producto 12",
-      "price": 120,
-      "description": "Descripción del producto 12",
-      "imageUrl": "https://source.unsplash.com/random/clothing,12"
-    },
-    {
-      "id": 13,
-      "name": "Producto 13",
-      "price": 130,
-      "description": "Descripción del producto 13",
-      "imageUrl": "https://source.unsplash.com/random/accessory,13"
-    },
-    {
-      "id": 14,
-      "name": "Producto 14",
-      "price": 140,
-      "description": "Descripción del producto 14",
-      "imageUrl": "https://source.unsplash.com/random/furniture,14"
-    },
-    {
-      "id": 15,
-      "name": "Producto 15",
-      "price": 150,
-      "description": "Descripción del producto 15",
-      "imageUrl": "https://source.unsplash.com/random/product,15"
-    },
-    {
-      "id": 16,
-      "name": "Producto 16",
-      "price": 160,
-      "description": "Descripción del producto 16",
-      "imageUrl": "https://source.unsplash.com/random/item,16"
-    },
-    {
-      "id": 17,
-      "name": "Producto 17",
-      "price": 170,
-      "description": "Descripción del producto 17",
-      "imageUrl": "https://source.unsplash.com/random/goods,17"
-    },
-    {
-      "id": 18,
-      "name": "Producto 18",
-      "price": 180,
-      "description": "Descripción del producto 18",
-      "imageUrl": "https://source.unsplash.com/random/electronics,18"
-    },
-    {
-      "id": 19,
-      "name": "Producto 19",
-      "price": 190,
-      "description": "Descripción del producto 19",
-      "imageUrl": "https://source.unsplash.com/random/clothing,19"
-    },
-    {
-      "id": 20,
-      "name": "Producto 20",
-      "price": 200,
-      "description": "Descripción del producto 20",
-      "imageUrl": "https://source.unsplash.com/random/accessory,20"
-    },
-    {
-      "id": 21,
-      "name": "Producto 21",
-      "price": 210,
-      "description": "Descripción del producto 21",
-      "imageUrl": "https://source.unsplash.com/random/furniture,21"
-    },
-    {
-      "id": 22,
-      "name": "Producto 22",
-      "price": 220,
-      "description": "Descripción del producto 22",
-      "imageUrl": "https://source.unsplash.com/random/product,22"
-    },
-    {
-      "id": 23,
-      "name": "Producto 23",
-      "price": 230,
-      "description": "Descripción del producto 23",
-      "imageUrl": "https://source.unsplash.com/random/item,23"
-    },
-    {
-      "id": 24,
-      "name": "Producto 24",
-      "price": 240,
-      "description": "Descripción del producto 24",
-      "imageUrl": "https://source.unsplash.com/random/goods,24"
-    },
-    {
-      "id": 25,
-      "name": "Producto 25",
-      "price": 250,
-      "description": "Descripción del producto 25",
-      "imageUrl": "https://source.unsplash.com/random/electronics,25"
-    },
-    {
-      "id": 26,
-      "name": "Producto 26",
-      "price": 260,
-      "description": "Descripción del producto 26",
-      "imageUrl": "https://source.unsplash.com/random/clothing,26"
-    },
-    {
-      "id": 27,
-      "name": "Producto 27",
-      "price": 270,
-      "description": "Descripción del producto 27",
-      "imageUrl": "https://source.unsplash.com/random/accessory,27"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "iPhone 15",
+    "price": 999,
+    "description": "Último modelo de iPhone con tecnología avanzada.",
+    "longDescription": "El iPhone 15 viene con una pantalla OLED Super Retina XDR de 6.1 pulgadas, el nuevo chip A16 Bionic, y un sistema de cámaras avanzadas que incluye una cámara principal de 48 MP y una ultra gran angular de 12 MP. Disfruta de una experiencia fluida con iOS 16 y seguridad mejorada con Face ID.",
+    "imageUrl": "https://i.blogs.es/65ee7d/captura-de-pantalla-2023-09-12-193837/375_375.webp"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24",
+    "price": 899,
+    "description": "Smartphone de última generación de Samsung.",
+    "longDescription": "El Samsung Galaxy S24 cuenta con una pantalla Dynamic AMOLED 2X de 6.4 pulgadas, un procesador Exynos 2200, y un sistema de triple cámara con sensores de 108 MP, 12 MP y 10 MP. Equipado con una batería de larga duración de 5000 mAh y carga rápida de 45W, el Galaxy S24 ofrece una experiencia de usuario sin precedentes.",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_706152-MLA74088396736_012024-O.webp"
+  },
+  {
+    "id": 3,
+    "name": "PlayStation 5",
+    "price": 499,
+    "description": "Consola de juegos de última generación de Sony.",
+    "longDescription": "La PlayStation 5 redefine la experiencia de juego con su potente hardware, incluyendo una CPU de 8 núcleos AMD Zen 2 y una GPU personalizada basada en RDNA 2. Disfruta de gráficos impresionantes y tiempos de carga ultrarrápidos gracias a su SSD de alta velocidad. Compatible con una amplia biblioteca de juegos, la PS5 es el centro de entretenimiento definitivo.",
+    "imageUrl": "https://lavictoria.ec/wp-content/uploads/2024/02/PLAYSTATION-5-SLIM-EDICION-BLURAY-SONY-3-600x600.webp"
+  },
+  {
+    "id": 4,
+    "name": "MacBook Pro 16",
+    "price": 2399,
+    "description": "Portátil potente y versátil de Apple.",
+    "longDescription": "El MacBook Pro de 16 pulgadas ofrece un rendimiento excepcional gracias al chip M1 Pro/M1 Max, una pantalla Liquid Retina XDR, y hasta 64 GB de memoria unificada. Diseñado para profesionales, este portátil incluye un teclado Magic renovado, sistema de sonido avanzado con seis altavoces, y una batería que dura todo el día.",
+    "imageUrl": "https://http2.mlstatic.com/D_Q_NP_992056-MLA53127199389_012023-O.webp"
+  },
+  {
+    "id": 5,
+    "name": "Sony WH-1000XM4",
+    "price": 349,
+    "description": "Auriculares inalámbricos con cancelación de ruido.",
+    "longDescription": "Los Sony WH-1000XM4 ofrecen una calidad de sonido superior con cancelación de ruido líder en la industria. Equipados con drivers de 40 mm, soporte para Hi-Res Audio, y una batería que dura hasta 30 horas, estos auriculares son ideales para escuchar música y llamadas sin interrupciones. Además, incluyen funciones inteligentes como control táctil y asistente de voz.",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_739241-MLA44483909545_012021-O.webp"
+  },
+  {
+    "id": 6,
+    "name": "Apple Watch Series 8",
+    "price": 399,
+    "description": "Smartwatch avanzado de Apple.",
+    "longDescription": "El Apple Watch Series 8 es el compañero perfecto para una vida saludable. Con un diseño elegante y duradero, cuenta con monitoreo de salud avanzada, incluyendo ECG, oxígeno en sangre, y alertas de frecuencia cardíaca. Disfruta de nuevas funcionalidades con watchOS 9, y una pantalla siempre activa de alta resolución.",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_785211-MLU70885024044_082023-O.webp"
+  },
+  {
+    "id": 7,
+    "name": "Dell XPS 13",
+    "price": 1199,
+    "description": "Ultrabook compacto y potente.",
+    "longDescription": "El Dell XPS 13 combina un diseño compacto con un rendimiento potente, gracias a su procesador Intel Core i7 de 11ª generación, pantalla InfinityEdge de 13.4 pulgadas, y hasta 32 GB de RAM. Con una duración de batería de hasta 14 horas y un chasis de aluminio de alta calidad, el XPS 13 es ideal para profesionales en movimiento.",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_925992-MLU71210447088_082023-O.webp"
+  },
+  {
+    "id": 8,
+    "name": "iPad Pro 12.9",
+    "price": 1099,
+    "description": "Tablet de alta gama de Apple.",
+    "longDescription": "El iPad Pro de 12.9 pulgadas ofrece una experiencia de tablet sin igual con su chip M1, pantalla Liquid Retina XDR, y soporte para el Apple Pencil y el Magic Keyboard. Perfecto para profesionales creativos, este dispositivo incluye cámaras avanzadas, escáner LiDAR, y conectividad 5G para trabajar y crear desde cualquier lugar.",
+    "imageUrl": "https://jet-corp.s3.us-west-1.amazonaws.com/images/catalog/public/72645a9972cd6ed8a79aa093510264de.webp"
+  },
+  {
+    "id": 9,
+    "name": "GoPro HERO10",
+    "price": 499,
+    "description": "Cámara de acción resistente y versátil.",
+    "longDescription": "La GoPro HERO10 es la cámara de acción definitiva, equipada con un nuevo procesador GP2 que permite grabación en 5.3K a 60 fps y fotos de 23 MP. Con HyperSmooth 4.0, estabilización de imagen avanzada, y resistente al agua hasta 33 pies, la HERO10 es ideal para capturar todas tus aventuras con una calidad impresionante.",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_855810-MLU75334620376_032024-O.webp"
+  },
+  {
+    "id": 10,
+    "name": "Bose QuietComfort 35 II",
+    "price": 299,
+    "description": "Auriculares inalámbricos con cancelación de ruido.",
+    "longDescription": "Los Bose QuietComfort 35 II son reconocidos por su excepcional cancelación de ruido, calidad de sonido premium, y comodidad para uso prolongado. Con hasta 20 horas de batería, integración con Google Assistant y Amazon Alexa, y un diseño plegable, estos auriculares son perfectos para viajar y trabajar.",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_710144-MLA40313621065_012020-O.webp"
+  },
+  {
+    "id": 11,
+    "name": "Google Pixel 6",
+    "price": 699,
+    "description": "Smartphone innovador de Google.",
+    "longDescription": "El Google Pixel 6 ofrece una experiencia de usuario única con su procesador Google Tensor, una pantalla AMOLED de 6.4 pulgadas, y cámaras avanzadas con características exclusivas de fotografía computacional. Disfruta de Android puro, actualizaciones rápidas, y funciones de seguridad mejoradas.",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_721184-MLA50145146433_052022-O.webp"
+  },
+  {
+    "id": 12,
+    "name": "Microsoft Surface Pro 8",
+    "price": 1399,
+    "description": "Tableta y portátil 2 en 1 de Microsoft.",
+    "longDescription": "El Microsoft Surface Pro 8 combina la potencia de un portátil con la flexibilidad de una tablet. Equipado con procesadores Intel Core de 11ª generación, una pantalla PixelSense de 13 pulgadas, y soporte para el Surface Pen, este dispositivo es perfecto para profesionales creativos y empresariales.",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_787383-MEC52832348016_122022-O.webp"
+  },
+  {
+    "id": 13,
+    "name": "Nintendo Switch OLED",
+    "price": 349,
+    "description": "Consola de videojuegos híbrida de Nintendo.",
+    "longDescription": "La Nintendo Switch OLED ofrece una experiencia de juego mejorada con su pantalla OLED de 7 pulgadas, almacenamiento interno de 64 GB, y altavoces mejorados. Disfruta de juegos en casa y en movimiento con modos de juego versátiles y una amplia biblioteca de títulos exclusivos.",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_948949-MLU72200035063_102023-O.webp"
+  },
+  {
+    "id": 14,
+    "name": "Canon EOS R5",
+    "price": 3899,
+    "description": "Cámara sin espejo avanzada de Canon.",
+    "longDescription": "La Canon EOS R5 es una cámara sin espejo de alto rendimiento con un sensor full-frame de 45 MP, grabación de video en 8K, y estabilización de imagen en el cuerpo. Ideal para fotógrafos y videógrafos profesionales, la EOS R5 ofrece una calidad de imagen excepcional y una velocidad de disparo continua de hasta 20 fps.",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_717298-MLU74909123262_032024-O.webp"
+  },
+  {
+    "id": 15,
+    "name": "Fitbit Charge 5",
+    "price": 179,
+    "description": "Monitor de actividad física avanzado.",
+    "longDescription": "El Fitbit Charge 5 es un monitor de actividad física avanzado que ofrece monitoreo continuo de la frecuencia cardíaca, seguimiento del sueño, y GPS integrado. Con una pantalla AMOLED a color, resistencia al agua hasta 50 metros, y hasta 7 días de batería, el Charge 5 te ayuda a mantenerte activo y saludable.",
+    "imageUrl": "https://http2.mlstatic.com/D_Q_NP_714759-MCO51302626540_082022-O.webp"
+  },
+  {
+    "id": 16,
+    "name": "Sony A7 III",
+    "price": 1999,
+    "description": "Cámara sin espejo full-frame de Sony.",
+    "longDescription": "La Sony A7 III es una cámara sin espejo versátil que ofrece un sensor full-frame de 24.2 MP, grabación de video en 4K, y un sistema de enfoque automático rápido y preciso. Con una batería de larga duración y un cuerpo compacto y resistente, la A7 III es ideal para fotógrafos profesionales y aficionados avanzados.",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_600283-MEC75200066514_032024-O.webp"
+  },
+  {
+    "id": 17,
+    "name": "DJI Mavic Air 2",
+    "price": 799,
+    "description": "Dron compacto y potente de DJI.",
+    "longDescription": "El DJI Mavic Air 2 combina una cámara de 48 MP con un diseño compacto y plegable, ofreciendo una experiencia de vuelo sin igual. Con grabación de video en 4K a 60 fps, autonomía de vuelo de hasta 34 minutos, y funciones avanzadas de vuelo autónomo, el Mavic Air 2 es perfecto para capturar imágenes aéreas impresionantes.",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_832776-MLA47979312060_102021-O.webp"
+  },
+  {
+    "id": 18,
+    "name": "Razer Blade 15",
+    "price": 2499,
+    "description": "Portátil gaming de alto rendimiento.",
+    "longDescription": "El Razer Blade 15 ofrece un rendimiento de juego superior con procesadores Intel Core i7 de 10ª generación, tarjetas gráficas NVIDIA GeForce RTX, y una pantalla Full HD de 15.6 pulgadas con tasa de refresco de 144 Hz. Diseñado para gamers, este portátil combina potencia y portabilidad en un chasis de aluminio delgado.",
+    "imageUrl": "https://assets2.razerzone.com/images/pnx.assets/13154ffe4ca0d12d5e2926b9a8d73120/razer-blade-15-incredibly-fast-vibrant-mobile.webp"
+  },
+  {
+    "id": 19,
+    "name": "Logitech MX Master 3",
+    "price": 99,
+    "description": "Ratón ergonómico avanzado de Logitech.",
+    "longDescription": "El Logitech MX Master 3 es un ratón ergonómico diseñado para ofrecer máxima comodidad y productividad. Con un sensor de alta precisión de 4000 DPI, rueda de desplazamiento electromagnética MagSpeed, y múltiples botones personalizables, el MX Master 3 es perfecto para usuarios avanzados y profesionales.",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_719736-MEC51062544284_082022-O.webp"
+  },
+  {
+    "id": 20,
+    "name": "Asus ROG Strix G15",
+    "price": 1799,
+    "description": "Portátil gaming potente y versátil.",
+    "longDescription": "El Asus ROG Strix G15 combina potencia y estilo con procesadores AMD Ryzen 9, tarjetas gráficas NVIDIA GeForce RTX 3070, y una pantalla Full HD de 15.6 pulgadas con tasa de refresco de 300 Hz. Diseñado para gamers, este portátil ofrece una experiencia de juego fluida y envolvente.",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_793562-MLU72474868463_102023-O.webp"
+  },
+  {
+    "id": 21,
+    "name": "HP Spectre x360",
+    "price": 1599,
+    "description": "Portátil convertible elegante y potente.",
+    "longDescription": "El HP Spectre x360 es un portátil convertible que combina rendimiento y estilo con procesadores Intel Core i7, pantalla táctil 4K OLED de 13.3 pulgadas, y una duración de batería de hasta 22 horas. Con un diseño delgado y ligero, este dispositivo es perfecto para profesionales en movimiento.",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_636480-MEC72763431682_112023-O.webp"
+  },
+  {
+    "id": 22,
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "price": 1499,
+    "description": "Ultrabook empresarial de alta gama.",
+    "longDescription": "El Lenovo ThinkPad X1 Carbon es un ultrabook empresarial que ofrece rendimiento y durabilidad excepcionales con procesadores Intel Core de 10ª generación, pantalla Full HD de 14 pulgadas, y una batería de larga duración de hasta 19.5 horas. Diseñado para profesionales, este portátil incluye características de seguridad avanzadas y un chasis de fibra de carbono.",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_853982-MLU71501779592_092023-O.webp"
+  },
+  {
+    "id": 23,
+    "name": "Oculus Quest 2",
+    "price": 299,
+    "description": "Casco de realidad virtual independiente.",
+    "longDescription": "El Oculus Quest 2 es un casco de realidad virtual independiente que ofrece una experiencia de inmersión completa sin necesidad de un PC. Equipado con un procesador Snapdragon XR2, resolución de 1832 x 1920 por ojo, y soporte para juegos y aplicaciones de VR, el Quest 2 es perfecto para entretenimiento y productividad.",
+    "imageUrl": "https://i.ebayimg.com/images/g/3L4AAOSwjhthpxWt/s-l1200.webp"
+  },
+  {
+    "id": 24,
+    "name": "Nikon Z6 II",
+    "price": 1999,
+    "description": "Cámara sin espejo full-frame de Nikon.",
+    "longDescription": "La Nikon Z6 II es una cámara sin espejo de alto rendimiento que ofrece un sensor full-frame de 24.5 MP, grabación de video en 4K UHD, y un sistema de enfoque automático híbrido de 273 puntos. Con doble ranura para tarjetas de memoria y un cuerpo sellado contra las inclemencias del tiempo, la Z6 II es ideal para fotógrafos y videógrafos profesionales.",
+    "imageUrl": "https://www.udeniosite.com/funciones_destacadas/img/z6ii/1659-Z6II-left.webp"
+  },
+  {
+    "id": 25,
+    "name": "HyperX Cloud II",
+    "price": 99,
+    "description": "Auriculares gaming con sonido envolvente.",
+    "longDescription": "Los HyperX Cloud II son auriculares gaming que ofrecen sonido envolvente virtual 7.1, almohadillas de espuma viscoelástica para mayor comodidad, y un micrófono desmontable con cancelación de ruido. Con un diseño duradero y una calidad de sonido superior, estos auriculares son perfectos para largas sesiones de juego.",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_953282-MLU70618924571_072023-O.webp"
+  },
+  {
+    "id": 26,
+    "name": "Ring Video Doorbell 3",
+    "price": 199,
+    "description": "Timbre inteligente con video HD.",
+    "longDescription": "El Ring Video Doorbell 3 es un timbre inteligente que ofrece video HD de 1080p, detección de movimiento avanzada, y comunicación bidireccional. Con notificaciones en tiempo real y almacenamiento en la nube opcional, este dispositivo te permite monitorear y proteger tu hogar desde cualquier lugar.",
+    "imageUrl": "https://http2.mlstatic.com/D_Q_NP_729814-MLU70612001662_072023-O.webp"
+  },
+  {
+    "id": 27,
+    "name": "TP-Link Archer AX50",
+    "price": 149,
+    "description": "Router Wi-Fi 6 de alta velocidad.",
+    "longDescription": "El TP-Link Archer AX50 es un router Wi-Fi 6 que ofrece velocidades ultrarrápidas de hasta 3 Gbps, cobertura mejorada, y compatibilidad con más dispositivos simultáneamente. Con tecnología OFDMA y MU-MIMO, este router es ideal para hogares conectados y entornos de trabajo remoto.",
+    "imageUrl": "https://www.batna24.com/products/DNXGGHIPGRMMGI/a.webp"
+  }
+]
