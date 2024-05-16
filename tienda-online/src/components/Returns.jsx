@@ -1,9 +1,6 @@
-import React from "react";
-import { useParams } from "react-router-dom";
 import { useCart } from "../context/CartContext";
 
 const Returns = () => {
-  const { username } = useParams();
   const { returns } = useCart();
 
   return (

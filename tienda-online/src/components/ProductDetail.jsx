@@ -6,7 +6,7 @@ import Alert from "./Alert";
 import { ArrowLeftIcon } from "@heroicons/react/24/solid";
 
 const ProductDetail = () => {
-  const { id, username } = useParams();
+  const { id } = useParams();
   const navigate = useNavigate();
   const { addToCart, message } = useCart();
   const [product, setProduct] = useState(null);

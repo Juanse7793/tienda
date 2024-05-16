@@ -1,4 +1,5 @@
 import { Link, useParams } from "react-router-dom";
+import PropTypes from "prop-types";
 
 const ProductCard = ({ product }) => {
   const { username } = useParams();
@@ -21,6 +22,10 @@ const ProductCard = ({ product }) => {
       </Link>
     </div>
   );
+};
+
+ProductCard.propTypes = {
+  product: PropTypes.object.isRequired,
 };
 
 export default ProductCard;

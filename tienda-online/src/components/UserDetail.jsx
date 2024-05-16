@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import usersData from "../data/users.json";
 import UserNotFound from "./UserNotFound";
+import PropTypes from "prop-types";
 
 const UserDetail = ({ setAuthenticatedUser }) => {
   const { username } = useParams();
@@ -33,6 +34,10 @@ const UserDetail = ({ setAuthenticatedUser }) => {
       </div>
     </div>
   );
+};
+
+UserDetail.propTypes = {
+  setAuthenticatedUser: PropTypes.func.isRequired,
 };
 
 export default UserDetail;

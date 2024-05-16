@@ -9,6 +9,7 @@ export default {
       backgroundImage: () => ({
         'company-bg': "url('/src/assets/images/20091.jpg')",
         'about-bg': "url('/src/assets/images/17930.jpg')",
+        'store-bg': "url('/src/assets/images/store.webp')",
       }),
     },
   },

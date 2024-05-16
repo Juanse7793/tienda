@@ -1,6 +1,6 @@
-import React from "react";
 import { Link } from "react-router-dom";
 import { ShoppingCartIcon } from "@heroicons/react/24/solid";
+import PropTypes from "prop-types";
 
 const Navbar = ({ username }) => {
   return (
@@ -50,6 +50,10 @@ const Navbar = ({ username }) => {
       </div>
     </nav>
   );
+};
+
+Navbar.propTypes = {
+  username: PropTypes.string.isRequired,
 };
 
 export default Navbar;

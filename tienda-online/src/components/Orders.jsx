@@ -1,10 +1,8 @@
-import React, { useState } from "react";
-import { useParams } from "react-router-dom";
+import { useState } from "react";
 import { useCart } from "../context/CartContext";
 import ReturnForm from "./ReturnForm";
 
 const Orders = () => {
-  const { username } = useParams();
   const { orders, requestReturn } = useCart();
   const [showReturnForm, setShowReturnForm] = useState(false);
   const [selectedOrderId, setSelectedOrderId] = useState(null);
@@ -28,7 +26,7 @@ const Orders = () => {
       ) : (
         <ul className="space-y-4">
           {orders
-            .sort((a, b) => (a.status === "DEVUELTA" ? 1 : -1))
+            .sort((a) => (a.status === "DEVUELTA" ? 1 : -1))
             .map((order) => (
               <li key={order.id} className="border p-4 rounded-lg shadow">
                 <div className="mb-2">

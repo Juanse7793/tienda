@@ -1,56 +1,65 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Juanse Store
 
-# Project Name
-
-> Description the project.
-
+> Juanse Store is an online store application built with React, Vite, and Tailwind CSS. It allows users to browse products, add them to a cart, proceed to checkout, and manage orders and returns.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- **Languages**: JavaScript, HTML, CSS
+- **Frameworks**: React, Vite
+- **Technologies Used**: Tailwind CSS, React Router
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
+[Live Demo Link](https://tienda-online-jssm-33qlnqapf-juanse7793s-projects.vercel.app/)
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Node.js
+- npm
+
 ### Setup
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/Juanse7793/juanstore.git
+   ```
+
+2. Navigate to the project directory:
+   ```sh
+   cd tienda-online
+   ```
 
 ### Install
 
+1. Install the dependencies:
+
+   ```sh
+   npm install
+   ```
+
 ### Usage
 
-### Run tests
+1. Start the development server:
+
+   ```sh
+   npm run dev
+   ```
 
 ### Deployment
 
-
+- Vercel
 
 ## Authors
 
-👤 **Author1**
+👤 **Juan Sebastian Sotomayor**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Juanse7793](https://github.com/Juanse7793)
+- LinkedIn: [Juan Sebastian Sotomayor](https://linkedin.com/in/juansebastiansotomayor)
 
 ## 🤝 Contributing
 
@@ -65,8 +74,8 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Profesor Jesus Pérez Melero
+- UNIR
 
 ## 📝 License
 

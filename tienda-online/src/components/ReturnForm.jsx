@@ -1,4 +1,5 @@
-import React, { useState } from "react";
+import { useState } from "react";
+import PropTypes from "prop-types";
 
 const ReturnForm = ({ onSubmit, onCancel }) => {
   const [reason, setReason] = useState("");
@@ -39,6 +40,11 @@ const ReturnForm = ({ onSubmit, onCancel }) => {
       </div>
     </div>
   );
+};
+
+ReturnForm.propTypes = {
+  onSubmit: PropTypes.func.isRequired,
+  onCancel: PropTypes.func.isRequired,
 };
 
 export default ReturnForm;
