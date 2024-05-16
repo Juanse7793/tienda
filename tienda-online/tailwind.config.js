@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {
+      colors: {
+        'custom-blue' : '#14b0e2',
+      },
       backgroundImage: () => ({
         'company-bg': "url('/src/assets/images/20091.jpg')",
         'about-bg': "url('/src/assets/images/17930.jpg')",
