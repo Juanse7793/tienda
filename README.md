@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://tienda-jssm-unir-n56zuxu4y-juanse7793s-projects.vercel.app/)
+[Live Demo Link](https://tienda-gold-six.vercel.app/)
 
 ## Getting Started
 
